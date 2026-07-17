@@ -1,1 +1,1 @@
-# ML_Flower_Classification_project
+# IITM_FLOWER_CLASSIFICATION_PROJECT
